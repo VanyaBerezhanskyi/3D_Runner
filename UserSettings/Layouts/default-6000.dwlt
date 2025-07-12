@@ -508,7 +508,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 183.8
     height: 451.6
   m_SerializedDataModeController:
@@ -551,7 +551,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0230000
     m_LastClickedID: 9136
-    m_ExpandedIDs: 000000005cab00005eab000060ab000062ab000064ab000066ab000068ab00006aab00006cab00006eab000070ab000072ab000074ab000076ab000078ab00007aab00007cab00007eab000080ab000082ab000084ab000086ab000088ab00008aab00008cab00008eab000090ab000092ab000094ab0000
+    m_ExpandedIDs: 00000000c6ab0000c8ab0000caab0000ccab0000ceab0000d0ab0000d2ab0000d4ab0000d6ab0000d8ab0000daab0000dcab0000deab0000e0ab0000e2ab0000e4ab0000e6ab0000e8ab0000eaab0000ecab0000eeab0000f0ab0000f2ab0000f4ab0000f6ab0000f8ab0000faab0000fcab0000feab000000ac000002ac000004ac000006ac0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -580,7 +580,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000005cab00005eab000060ab000062ab000068ab00006aab00006cab00006eab000070ab000078ab00007aab00007cab00007eab000080ab000082ab000084ab000086ab000088ab00008aab00008cab00008eab000090ab0000a8ad0000aaad0000b6ad000024f0000048f00000eef00000962b0100cc2b0100944201006ce10300fce70300
+    m_ExpandedIDs: 00000000c6ab0000c8ab0000caab0000ccab0000ceab0000d0ab0000d2ab0000d4ab0000d6ab0000d8ab0000daab0000dcab0000deab0000e0ab0000e2ab0000e4ab0000e6ab0000e8ab0000eaab0000ecab0000eeab0000f0ab0000f2ab0000f4ab0000f6ab0000f8ab0000faab0000fcab0000feab000000ac000002ac000004ac000006ac0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -659,8 +659,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 184.8
-    y: 79.200005
+    x: 185.8
+    y: 24
     width: 213.2
     height: 451.6
   m_SerializedDataModeController:
@@ -677,7 +677,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3c3b0100
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 2406f7ff7ad3f7ffa2daf7ffbee0f7ffa425f8ffde32f8ff124df8ff488ff8ff122ff9ff6657faff6893faff449ffafff4a4faffdadefafffcdefafff4dffaffb2fdfaffc606fbff3060fbff9a8dfbffd8bcfbffa6cefbff5ad0fbff16d5fbff78ebfbff0ef2fbffbaf2fbffaefcfbff84fdfbff16f4fdffe412feffec48feff1249feff224cfeffd03bffff303cffffea91ffffa29affff00fbfffff4ffffffa03c0100aa3c010086400100e64101003c480100ce4e0100365701009e670100860a0400
       m_RenameOverlay:
@@ -726,7 +726,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 556.8
+    y: 501.6
     width: 399
     height: 213.19998
   m_SerializedDataModeController:
@@ -761,8 +761,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 400
-    y: 79.200005
+    x: 1
+    y: 24
     width: 762.80005
     height: 324.4
   m_SerializedDataModeController:
@@ -1383,7 +1383,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.0787375, y: -0.43388182, z: 0.038157668, w: -0.8968273}
     speed: 2
-    m_Value: {x: -0.0787293, y: -0.43383667, z: 0.038153697, w: -0.89673394}
+    m_Value: {x: 0.07873749, y: 0.43388182, z: -0.038157668, w: 0.8968272}
   m_Size:
     m_Target: 602.9057
     speed: 2
@@ -1442,8 +1442,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 400
-    y: 429.6
+    x: 1
+    y: 374.4
     width: 762.80005
     height: 340.4
   m_SerializedDataModeController:
@@ -1515,7 +1515,7 @@ MonoBehaviour:
       height: 864.00006
     m_MinimalGUI: 1
   m_defaultScale: 0.3696759
-  m_LastWindowPixelSize: {x: 953.50006, y: 425.5}
+  m_LastWindowPixelSize: {x: 762.80005, y: 340.4}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -1543,8 +1543,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1164.8
-    y: 79.200005
+    x: 1165.8
+    y: 24
     width: 370.19995
     height: 690.8
   m_SerializedDataModeController:

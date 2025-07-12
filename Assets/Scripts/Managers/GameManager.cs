@@ -4,13 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] private Transform _basicTile;
+    [SerializeField] private Transform _basicTile; // Базовий тайл для нескінченної генерації рівня, на відміну від фіксованого, з перешкодами і монетами розкиданними випадковим чином
     [SerializeField] private Transform _obstacle;
     [SerializeField] private Transform _coin;
     [SerializeField] private int _initSpawnNum = 3;
 
 
-    private Vector3 _startSpawn = new Vector3(0, 0, -1); // Спавни звідки починаємо спавнити тайли
+    private Vector3 _startSpawn = new Vector3(0, 0, -1); // Спавн звідки починаємо спавнити тайли
     private Vector3 _nextTileSpawn;
 
     private void Awake()
@@ -63,7 +63,7 @@ public class GameManager : MonoBehaviour
         Transform obstacleSpawn = obstacleSpawns[randomIndex];
         Transform newObstacle = Instantiate(_obstacle, obstacleSpawn.position, obstacleSpawn.rotation);
 
-        newObstacle.SetParent(obstacleSpawn);
+        newObstacle.SetParent(obstacleSpawn); // Задаємо батька, щоб коли ми видаляли тайл, разом з ним видалялися відповідні перешкоди
     }
 
     private void SpawnCoins(Transform tile)
@@ -79,7 +79,7 @@ public class GameManager : MonoBehaviour
             {
                 count++;
 
-                if (count < 4)
+                if (count < 4) // У кожному ряду три спавни для монеток 
                     moneySpawns[0].Add(child);
                 else
                     moneySpawns[1].Add(child);
