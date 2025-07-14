@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\vanec\\3D_Runner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|c:\\users\\vanec\\3d_runner\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\triggers\\spawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggers\\spawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|c:\\users\\vanec\\3d_runner\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\triggers\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\messenger\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messenger\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|C:\\Users\\vanec\\3D_Runner\\assets\\scripts\\triggers\\spawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC4AED8-5941-032F-BD9E-CE195E274D52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggers\\spawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,56 +42,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T16:13:55.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
               "ToolTip": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswGgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T17:49:53.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MovingObstacle.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Obstacle\\MovingObstacle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\MovingObstacle.cs",
               "ToolTip": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Obstacle\\MovingObstacle.cs",
               "RelativeToolTip": "Assets\\Scripts\\Obstacle\\MovingObstacle.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T08:54:11.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Managers\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UIManager.cs",
               "ToolTip": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Managers\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\UIManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T10:15:26.005Z",
               "EditorCaption": ""
@@ -104,14 +104,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ScoreManager.cs",
               "ToolTip": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Managers\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\ScoreManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T15:19:23.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SpawnTrigger.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Triggers\\SpawnTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\SpawnTrigger.cs",
@@ -119,11 +119,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Triggers\\SpawnTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:59:29.276Z"
+              "WhenOpened": "2025-07-10T19:59:29.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CoinTrigger.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Triggers\\CoinTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\CoinTrigger.cs",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameEvent.cs",
               "DocumentMoniker": "C:\\Users\\vanec\\3D_Runner\\Assets\\Scripts\\Messenger\\GameEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Messenger\\GameEvent.cs",
